@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = BitTwiddlingConvenienceFunctions","category":"page"},{"location":"#BitTwiddlingConvenienceFunctions","page":"Home","title":"BitTwiddlingConvenienceFunctions","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for BitTwiddlingConvenienceFunctions.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [BitTwiddlingConvenienceFunctions]","category":"page"}]
+}
