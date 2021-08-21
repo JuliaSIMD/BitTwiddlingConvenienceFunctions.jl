@@ -6,11 +6,11 @@ DocMeta.setdocmeta!(BitTwiddlingConvenienceFunctions, :DocTestSetup, :(using Bit
 makedocs(;
     modules=[BitTwiddlingConvenienceFunctions],
     authors="Julia Computing",
-    repo="https://github.com/chriselrod/BitTwiddlingConvenienceFunctions.jl/blob/{commit}{path}#{line}",
+    repo="https://github.com/JuliaSIMD/BitTwiddlingConvenienceFunctions.jl/blob/{commit}{path}#{line}",
     sitename="BitTwiddlingConvenienceFunctions.jl",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
-        canonical="https://chriselrod.github.io/BitTwiddlingConvenienceFunctions.jl",
+        canonical="https://JuliaSIMD.github.io/BitTwiddlingConvenienceFunctions.jl",
         assets=String[],
     ),
     pages=[
@@ -19,6 +19,6 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/chriselrod/BitTwiddlingConvenienceFunctions.jl",
+    repo="github.com/JuliaSIMD/BitTwiddlingConvenienceFunctions.jl",
     devbranch="main",
 )

@@ -4,7 +4,7 @@ CurrentModule = BitTwiddlingConvenienceFunctions
 
 # BitTwiddlingConvenienceFunctions
 
-Documentation for [BitTwiddlingConvenienceFunctions](https://github.com/chriselrod/BitTwiddlingConvenienceFunctions.jl).
+Documentation for [BitTwiddlingConvenienceFunctions](https://github.com/JuliaSIMD/BitTwiddlingConvenienceFunctions.jl).
 
 ```@index
 ```
