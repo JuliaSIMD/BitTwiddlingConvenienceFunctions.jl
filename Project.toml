@@ -1,7 +1,7 @@
 name = "BitTwiddlingConvenienceFunctions"
 uuid = "62783981-4cbd-42fc-bca8-16325de8dc4b"
 authors = ["Julia Computing"]
-version = "0.1.4"
+version = "0.1.5"
 
 [deps]
 Static = "aedffcd0-7271-4cad-89d0-dc628f76c6d3"
